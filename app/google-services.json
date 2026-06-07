@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727527566",
+    "project_id": "yandexmusicclone-fea8b",
+    "storage_bucket": "yandexmusicclone-fea8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727527566:android:e6bfd529e1142f312c19df",
+        "android_client_info": {
+          "package_name": "com.example.yandexmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfAStkAtPzc7Wa_EpLFZ5vsRVZ0NuRpLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
